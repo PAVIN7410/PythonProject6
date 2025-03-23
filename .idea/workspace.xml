@@ -161,12 +161,21 @@
       <option name="project" value="LOCAL" />
       <updated>1742590578826</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="divannewpars">
+      <option name="closed" value="true" />
+      <created>1742743486061</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742743486061</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="parser lighting" />
-    <option name="LAST_COMMIT_MESSAGE" value="parser lighting" />
+    <MESSAGE value="divannewpars" />
+    <option name="LAST_COMMIT_MESSAGE" value="divannewpars" />
   </component>
 </project>
